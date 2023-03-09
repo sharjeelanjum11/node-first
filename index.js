@@ -8,7 +8,7 @@ const port = 4000;
 
 
 app.get('/',(req,res)=>{
-    res.send("hello sharjeel this is my server  ")
+    res.send("hello sharjeel this is my server is running  ")
 })
 
 
